@@ -1,10 +1,10 @@
 # [level 0] 수 조작하기 2 - 181925 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181925?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181925?language=java) 
 
 ### 성능 요약
 
-메모리: 13.4 MB, 시간: 26.13 ms
+메모리: 78.3 MB, 시간: 7.79 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 01월 02일 23:02:11
+2025년 01월 02일 23:41:29
 
 ### 문제 설명
 
