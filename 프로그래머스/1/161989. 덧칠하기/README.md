@@ -1,10 +1,10 @@
 # [level 1] 덧칠하기 - 161989 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/161989) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/161989?language=python3) 
 
 ### 성능 요약
 
-메모리: 75.9 MB, 시간: 1.57 ms
+메모리: 11 MB, 시간: 4.21 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 01월 29일 19:09:06
+2025년 01월 29일 19:12:53
 
 ### 문제 설명
 
